@@ -1,4 +1,3 @@
-package tcsnqt;
 
 import java.util.Scanner;
 
